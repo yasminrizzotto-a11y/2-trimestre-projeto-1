@@ -5,6 +5,9 @@ padding: 16px ;
 }
 header{
 background-color: blueviolet;
+text-align: center;
+padding: 16px;
+margin: 0 auto;
 }
 section{
 background-color: white;
